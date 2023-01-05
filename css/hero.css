@@ -3,7 +3,10 @@ body{
 	font-family: Helvetica, Arial, sans-serif;
 	font-size: 18px;
 	line-height: 25px;
+	background-color: rgba(31, 67, 94, 0.1);
 }
+
+/* header styles */
 
 header{
 	background-color: #F0B114;
@@ -74,3 +77,4 @@ p.caption{
 	font-style: italic;
 	margin-top: 0;
 }
+
